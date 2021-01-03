@@ -69,9 +69,9 @@ StringList narrativeText = new StringList("One of the reasons that Costa Rica is
 "START VACATION");
 
 void setup() {
-  //size(2000, 1000);
+  size(2000, 1000);
     
-  fullScreen();
+  //fullScreen();
   frameRate(30);
   
   start = true;
